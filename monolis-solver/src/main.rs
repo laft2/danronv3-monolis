@@ -71,9 +71,9 @@ fn read_from_csv(path: &str) -> State {
 const SEED: u64 = 131;
 
 fn main() {
-    let PATH = "../monolis-fetch/colors.csv";
-    let test_path = "./test.csv";
-    let state: State = read_from_csv(test_path);
+    let path = "../monolis-fetch/colors.csv";
+    // let test_path = "./test.csv";
+    let state: State = read_from_csv(path);
     output_state(&state);
     // println!("{:#?}", state);
 
