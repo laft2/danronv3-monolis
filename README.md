@@ -14,5 +14,6 @@ HTML+JSのビジュアライザ。1つ目のテキストボックスにマス情
 これらを入力し、startを押すと、次の入力場所が視覚的に表示される。
 nextで次の手の入力場所の表示、prevで前の手に戻れる。
 
-![image](https://github.com/laft2/danronv3-monolis/assets/44256206/c86084c3-bb15-44ed-bf80-7eb073d24874)
+Aboutのリンクにvisualizerをデプロイしてある。
 
+![image](https://github.com/laft2/danronv3-monolis/assets/44256206/c86084c3-bb15-44ed-bf80-7eb073d24874)
